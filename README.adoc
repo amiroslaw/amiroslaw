@@ -1,0 +1,34 @@
+== Hi 👋, I'm Arek
+A passionate backend developer from Poland.
+
+- 📝 I write articles on https://miroslaw.ovh/[https://miroslaw.ovh/] image:https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white[link="https://miroslaw.ovh/rss"] 
+- 👨‍💻 All of my projects are available at https://miroslaw.ovh/portfolio[https://miroslaw.ovh/portfolio]
+- 📄 Know about my experiences https://miroslaw.ovh/about[https://miroslaw.ovh/about]
+
+=== 🛠️Technologies
+
+.Stack
+****
+image:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white[Java] image:https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white[Spring] image:https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white[Hibernate] image:https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white[Postgres] image:https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white[SQLite]
+
+image:https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black[Linux] image:https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white[Git] image:https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white[Lua]
+
+image:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white[HTML5] image:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white[CSS3] image:https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white[Bootstrap] image:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E[JavaScript]
+****
+
+.Learning
+****
+image:https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white[TypeScript] image:https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white[Angular] image:https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white[Selenium]
+****
+
+
+=== 📈 GitHub stats
+ifdef::backend-html5[]
+++++
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiroslaw" alt="amiroslaw" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiroslaw&show_icons=true&locale=en&layout=compact" alt="amiroslaw" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiroslaw&show_icons=true&locale=en" alt="amiroslaw" /></p>
+++++
+endif::[]
