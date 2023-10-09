@@ -1,5 +1,5 @@
-== Hi 👋, I'm Arek
-A passionate backend developer from Poland.
+== 👋 Hello, I'm Arek
+Programmer interested in Java technologies. Enthusiast of Linux, vim, and open source.
 
 - 📝 I write articles on https://miroslaw.ovh/[https://miroslaw.ovh/] image:https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white[link="https://miroslaw.ovh/rss"] 
 - 👨‍💻 All of my projects are available at https://miroslaw.ovh/portfolio[https://miroslaw.ovh/portfolio]
@@ -7,20 +7,16 @@ A passionate backend developer from Poland.
 
 === 🛠️Technologies
 
-.Stack
-****
-image:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white[Java] image:https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white[Spring] image:https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white[Hibernate] image:https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white[Postgres] image:https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white[SQLite]
-
-image:https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black[Linux] image:https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white[Git] image:https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white[Lua]
-
-image:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white[HTML5] image:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white[CSS3] image:https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white[Bootstrap] image:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E[JavaScript]
-****
-
-.Learning
-****
-image:https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white[TypeScript] image:https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white[Angular] image:https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white[Selenium]
-****
-
+Stack :: 
+* image:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white[Java] image:https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white[Spring] image:https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white[Hibernate] image:https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white[Postgres] image:https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white[SQLite]
+* image:https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black[Linux] image:https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white[Git] image:https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white[Lua]
+* image:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white[HTML5] image:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white[CSS3] image:https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white[Bootstrap] image:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E[JavaScript]
+Tools :: 
+* image:https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=im&logoColor=white[Neovim] image:https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white[IntelliJ IDEA] image:https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white[Apache Maven]
+Learning ::
+* image:https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white[TypeScript] image:https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white[Angular] image:https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white[Selenium]
+// image:https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white[Gradle]
+// image:https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white[Docker]
 
 === 📈 GitHub stats
 ifdef::backend-html5[]
